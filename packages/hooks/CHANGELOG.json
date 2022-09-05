@@ -1,0 +1,17 @@
+{
+  "name": "@jcyd/hooks",
+  "entries": [
+    {
+      "version": "2.0.0",
+      "tag": "@jcyd/hooks_v2.0.0",
+      "date": "Mon, 05 Sep 2022 13:59:27 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "hello"
+          }
+        ]
+      }
+    }
+  ]
+}

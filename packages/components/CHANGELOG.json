@@ -1,0 +1,22 @@
+{
+  "name": "@jcyd/components",
+  "entries": [
+    {
+      "version": "2.0.0",
+      "tag": "@jcyd/components_v2.0.0",
+      "date": "Mon, 05 Sep 2022 13:59:27 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "hello"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@jcyd/hooks\" to `2.0.0`"
+          }
+        ]
+      }
+    }
+  ]
+}
