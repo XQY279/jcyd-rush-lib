@@ -1,3 +1,5 @@
 import { count } from "@jcyd/hooks";
 
-console.log(count);
+console.log(count + 10);
+
+export const Load = () => {};
