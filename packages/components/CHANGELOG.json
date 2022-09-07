@@ -2,6 +2,18 @@
   "name": "@jcyd/components",
   "entries": [
     {
+      "version": "3.0.1",
+      "tag": "@jcyd/components_v3.0.1",
+      "date": "Wed, 07 Sep 2022 14:00:07 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "hello"
+          }
+        ]
+      }
+    },
+    {
       "version": "3.0.0",
       "tag": "@jcyd/components_v3.0.0",
       "date": "Wed, 07 Sep 2022 13:41:05 GMT",
