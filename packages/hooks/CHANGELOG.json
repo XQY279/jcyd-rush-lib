@@ -2,6 +2,18 @@
   "name": "@jcyd/hooks",
   "entries": [
     {
+      "version": "3.0.0",
+      "tag": "@jcyd/hooks_v3.0.0",
+      "date": "Wed, 07 Sep 2022 13:41:05 GMT",
+      "comments": {
+        "major": [
+          {
+            "comment": "新增组件"
+          }
+        ]
+      }
+    },
+    {
       "version": "2.0.0",
       "tag": "@jcyd/hooks_v2.0.0",
       "date": "Mon, 05 Sep 2022 14:04:48 GMT",
